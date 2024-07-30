@@ -1,0 +1,53 @@
+.card {
+  display: block;
+  margin: 20% auto;
+  padding: 40px;
+}
+.card {
+  background-color: #b0daff;
+}
+.search {
+  display: block;
+  margin: 2% auto;
+}
+.header {
+  display: block;
+  position: relative;
+  margin: 0 auto;
+  padding: 20px 0;
+  font-weight: 100;
+}
+.search {
+  position: relative;
+}
+.sunset {
+  position: relative;
+}
+.today {
+  color: aqua;
+}
+.col-3 {
+  font-size: 40px;
+  font-family: "Secular one";
+  display: block;
+  margin: 2% auto;
+  right: 0;
+}
+.mostly {
+  color: yellow;
+  font-size: 80px;
+}
+.number {
+  color: brown;
+}
+.air,
+.sun,
+.rain {
+  color: blue;
+}
+.tem {
+  color: yellow;
+}
+.num {
+  font-size: 70px;
+}
